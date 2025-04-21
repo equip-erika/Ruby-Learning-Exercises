@@ -1,4 +1,5 @@
 # The Odin Project Ruby Exercises
+https://github.com/TheOdinProject/ruby-exercises/tree/main
 
 ## About this repository
 
