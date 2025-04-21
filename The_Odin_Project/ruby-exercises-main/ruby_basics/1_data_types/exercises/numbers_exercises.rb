@@ -20,7 +20,7 @@ end
 
 def remainder(a, b)
   # return the remainder of dividing a by b using the modulo operator
-  a.remainder(b)
+  a % b
 end
 
 def float_division(a, b)
